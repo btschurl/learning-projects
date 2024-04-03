@@ -1,2 +1,1 @@
-# guess-the-number
-First try at simple JS 'app'
+All projects done while learning JS and Frameworks etc.
